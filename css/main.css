@@ -3,6 +3,10 @@ body {
 }
 a{
 	text-decoration:none; 
+	color: #3a2560 !important;
+}
+.navbar{
+	background-color: white !important;
 }
 .logo-morado {
 	width: 4%;
@@ -56,11 +60,13 @@ div.category_item p{
 }
  #footer{
  	height: 50vh;
-	color: #3a2560;
+	background-color:#FDFDFD}
+ #footer>a{
+ 	color: #3a2560;
  }
 /*altura de banner*/
  .carousel-inner{
- 	height: 80vh
+ 	height: 90vh
  }
 
 

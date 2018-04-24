@@ -3,7 +3,7 @@ const data = [ //1=braile,  2=adio
     {   
         id: 1,
         name: 'Reloj Vibrador', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+        img: 'http://www.gadgetometro.com/wp-content/uploads/vibering_sensor2.jpg', 
         precio: 585,
         categoria: 'auditiva',
         tipo: 'educacion'   
@@ -13,7 +13,7 @@ const data = [ //1=braile,  2=adio
         id: 2,
 
         name: 'Curbeta Digital', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+        img: 'http://www.youngmarketing.co/wp-content/uploads/2013/12/Keyboard-495x330.jpg', 
         precio: 130,
         categoria: 'auditiva',
          tipo: 'educacion' 
@@ -21,7 +21,7 @@ const data = [ //1=braile,  2=adio
     {   
         id: 3,
         name: 'Kit De Rubbabu', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+        img: 'https://cdn.shopify.com/s/files/1/0225/8535/products/20350.jpg?v=1466434456', 
         precio: 4050,
         categoria: 'visual', 
          tipo: 'educacion'
