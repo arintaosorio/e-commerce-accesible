@@ -3,12 +3,12 @@ body {
 }
 .category-wrapper {
 	width: 100%;
-	height: 40vh;
+	height: 20vh;
 	background-color: white;
 	border: solid 1px;
 }
 
-#home, #categorias, #ofertas, #ubicacion, #category{
+#home, #checkout, #categorias{
 	height: 100vh;
 	background-color: white;
 }
@@ -21,4 +21,109 @@ body {
  	height: 80vh
  }
 
+ .product{
+ 	display: inline-block;
+ }
+
+.owl-item.active{
+	margin-right: 10px;
+	background-color: white;
+	display: inline-block;
+}
+.product-item {
+
+	background: #fff;
+	position: relative;
+}
+.product-item:hover {
+	box-shadow: 5px 5px rgba(234, 234, 234, 0.9);
+}
+.product-item:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+	font-size: 0;
+	line-height:0;
+}
+.pi-img-wrapper {
+	position: relative;
+	width: 100%;
+}
+.pi-img-wrapper div {
+	background: rgba(0,0,0,0.3);
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: none;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.pi-img-wrapper div .btn-default {
+	padding: 3px 10px;
+	color: #fff;
+	border: 1px #fff solid;
+	margin: -13px 5px 0;
+	background: transparent;
+	position: relative;
+	top: 50%;
+	font-size: 12px;
+}
+.add2cart, .view {
+	float: right;
+	color: #a8aeb3;
+	border: 1px #ededed solid;
+	padding: 3px 6px;
+}
+.pi-price {
+	color: blue;
+	font: 18px 'PT Sans Narrow', sans-serif;
+	float: left;
+	padding-top: 1px;
+}
+
+
+/*FORM*/
+.stepwizard-step p {
+    margin-top: 10px;
+}
+.stepwizard-row {
+    display: table-row;
+}
+.stepwizard {
+    display: table;
+    width: 50%;
+    position: relative;
+}
+.stepwizard-step button[disabled] {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
+.stepwizard-row:before {
+    top: 14px;
+    bottom: 0;
+    position: absolute;
+    content: " ";
+    width: 100%;
+    height: 1px;
+    background-color: #ccc;
+    z-order: 0;
+}
+.stepwizard-step {
+    display: table-cell;
+    text-align: center;
+    position: relative;
+}
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1.428571429;
+    border-radius: 15px;
+}
 
