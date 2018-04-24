@@ -31,62 +31,62 @@ const data = [ //1=braile,  2=adio
 
 
 //data articulos entretenimiento
-    {
-        id: 4,
-        name: 'SuperNova Lector de Pantalla', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-        precio: 19000,
-        categoria: 'visual',
-        tipo: 'entretenimiento' 
-    },
-    {
-        id: 5,
-        name: 'Mind-start rainbow bingo game', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-        precio: 660,
-        categoria: 'Psicosocial',
-        tipo: 'entretenimiento'  
-    },
-    {
-        id: 6,
-        name: 'BIGtrack Trackball', 
-        img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-        precio: 220,
-        categoria: 'psicomotriz' ,
-        tipo: 'entretenimiento' 
-    },
+//     {
+//         id: 4,
+//         name: 'SuperNova Lector de Pantalla', 
+//         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//         precio: 19000,
+//         categoria: 'visual',
+//         tipo: 'entretenimiento' 
+//     },
+//     {
+//         id: 5,
+//         name: 'Mind-start rainbow bingo game', 
+//         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//         precio: 660,
+//         categoria: 'Psicosocial',
+//         tipo: 'entretenimiento'  
+//     },
+//     {
+//         id: 6,
+//         name: 'BIGtrack Trackball', 
+//         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//         precio: 220,
+//         categoria: 'psicomotriz' ,
+//         tipo: 'entretenimiento' 
+//     },
 
 
 
 
 
 
-//articulos herramientas
+// //articulos herramientas
 
-    {
-    id: 7,
-    name: 'Sip/ Puff Switch', 
-    img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-    precio: 3200,
-    categoria: 'movilidad',
-        tipo: 'herramientas'  
-    }, 
-    {
-    id: 8,
-    name: 'Bli-ve Ciclo', 
-    img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-    precio: 420,
-    categoria: 'movilidad' ,
-        tipo: 'herramientas' 
-    },
-    {
-    id: 9,
-    name: 'Aria Bracalet', 
-    img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
-    precio: 430,
-    categoria: 'auditiva' ,
-        tipo: 'herramientas' 
-    },
+//     {
+//     id: 7,
+//     name: 'Sip/ Puff Switch', 
+//     img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//     precio: 3200,
+//     categoria: 'movilidad',
+//         tipo: 'herramientas'  
+//     }, 
+//     {
+//     id: 8,
+//     name: 'Bli-ve Ciclo', 
+//     img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//     precio: 420,
+//     categoria: 'movilidad' ,
+//         tipo: 'herramientas' 
+//     },
+//     {
+//     id: 9,
+//     name: 'Aria Bracalet', 
+//     img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
+//     precio: 430,
+//     categoria: 'auditiva' ,
+//         tipo: 'herramientas' 
+//     },
 
 
 ];
