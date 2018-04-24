@@ -30,14 +30,16 @@ const drawProductsHome = (img, name, precio,categoria, tipo) => {
         <h1><a href="#">${name}</a></h1>
          <p><a href="#">${categoria}</a></p>
         <div class="pi-price">${precio} MXN</div>
-         <a      class="btn btn-default view"  data-toggle="modal" data-target="#exampleModalCenter">Ver</a>
+         <a class="btn btn-default view"  data-toggle="modal" data-target="#exampleModalCenter">Ver</a>
 <a data-name=${name} data-image = ${img} data-price=${precio} class="btn btn-default add2cart btnAddRemove">Comprar</a>
 
         </div>
         </div></div></div>
         `;
     return templateProduct
-};
+}
+
+;
   
 
 

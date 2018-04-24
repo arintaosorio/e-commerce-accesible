@@ -97,6 +97,7 @@ body {
 }
 .stepwizard-row {
     display: table-row;
+    margin-left: 20%;
 }
 .stepwizard {
     display: table;
