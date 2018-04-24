@@ -1,13 +1,9 @@
 body {
 	background-color: grey;
 }
-.category-wrapper {
-	width: 100%;
-	height: 20vh;
-	background-color: white;
-	border: solid 1px;
-}
 
+
+/*alturas de secciones*/
 #home, #checkout, #categorias{
 	height: 100vh;
 	background-color: white;
@@ -16,11 +12,20 @@ body {
  	height: 50vh;
  	background-color: black;
  }
-
+/*altura de banner*/
  .carousel-inner{
  	height: 80vh
  }
 
+
+/*JAVASCRIPT*/
+/*PRoductos en dom*/
+.category-wrapper {
+	width: 100%;
+	height: 20vh;
+	background-color: white;
+	border: solid 1px;
+}
  .product{
  	display: inline-block;
  }
