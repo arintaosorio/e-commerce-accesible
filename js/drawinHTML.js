@@ -1,6 +1,6 @@
 window.onload = function() {
             let templateCompleto ='';
-            for (product of education) {
+            for (product of educacion) {
                 let img = product.img;
                 let name = product.name;
                 let precio = product.precio;

@@ -5,7 +5,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1',
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 1,
@@ -13,7 +13,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 205,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 2,
@@ -21,7 +21,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 185,
-        categoria: sensorial
+        categoria: 'sensorial'
     },
     {   
         id: 1,
@@ -29,7 +29,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 1,
@@ -37,7 +37,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 220,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 2,
@@ -45,7 +45,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 130,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 2,
@@ -53,7 +53,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {   
         id: 1,
@@ -61,7 +61,7 @@ const educacion = [ //1=braile,  2=adio
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
 
 ];
@@ -77,7 +77,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -85,7 +85,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -93,7 +93,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -101,7 +101,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -109,7 +109,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -117,7 +117,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -125,7 +125,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
     {
         id: 1,
@@ -133,7 +133,7 @@ const entretenimiento = [
         name: '1', 
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 120,
-        categoria: sensorial 
+        categoria: 'sensorial' 
     },
 
 ];
