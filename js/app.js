@@ -29,4 +29,7 @@ function saveLocalS () {
   let stringArray = JSON.stringify(arrayProductAdd)
   console.log(stringArray);
   localStorage.setItem('product', stringArray);
-}
+};
+
+
+
