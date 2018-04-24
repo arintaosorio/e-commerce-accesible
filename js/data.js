@@ -6,7 +6,7 @@ const data = [ //1=braile,  2=adio
         img: 'https://dummyimage.com/300x300/30857b/ffffff&text=prueba', 
         precio: 585,
         categoria: 'auditiva',
-        tipo: 'educacion'
+        tipo: 'educacion'   
     },
 
     {   

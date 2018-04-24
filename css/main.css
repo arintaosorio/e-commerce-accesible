@@ -127,3 +127,6 @@ body {
     border-radius: 15px;
 }
 
+.category_list .item-active{
+	background: #2D3E50;
+}

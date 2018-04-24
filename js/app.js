@@ -15,3 +15,7 @@ $('.carousel').carousel()
     }
   
 });
+
+
+   // filtro2
+// CARRITO
